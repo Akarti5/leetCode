@@ -8,4 +8,4 @@ Each commit is proof that I showed up, learned something new, and became a sligh
 
 The road is long, but every expert once started at Problem #1.
 
-🚀 Stay with me — one day we'll be looking back from Solution #1000 and smiling at how far we've come.
+one day we'll be looking back from Solution #1000 and smiling at how far we've come.
